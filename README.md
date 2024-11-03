@@ -11,7 +11,7 @@ Menu składa się z 3 zakładek:
 - Opcje
 
 Po kliknięciu zakładki "Kontakty" pokazują nam się podzakładki:
-- Wyczyść => ten przycisk czyści całą liste kontaktów. Przed usunięciem użytkownik musi potwierdzić tą akcje
+- Wyczyść => ten przycisk czyści całą liste kontaktów razem z zapisanymi. Przed usunięciem użytkownik musi potwierdzić tą akcje
 - Zapisz => zapisuje wszystkie kontakty w pliku "baza.json". Message Box potwierdza zakończenie zapisu do pliku
 - Koniec => przycisk ten wyłącza aplikacje
 
