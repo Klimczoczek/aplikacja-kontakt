@@ -30,11 +30,14 @@ Aby wyszukać w bazie kontaktów należy napisać daną frazę w polu tekstowym 
 Aby dodać kontakt do bazy należy kliknąć w "+" w prawym górnym rogu. Pojawia się wtedy okno pozwalające napisać Imię, Nazwisko, Numer Telefonu i Datę Urodzenia w polach tekstowych. Po kliknięciu kontakt zostanie dodany do listy. Po wpisaniu istniejącego już numeru telefonu pokaże się komunikat mówiący o tym, że taki kontakt już istnieje.
 
 ###Lista Kontaktów###
+
 Lista kontaktów pokazuje tylko imię i nazwisko danej osoby. Aby zobaczyć więcej informacji należy kliknąć w wybrany kontakt. Po kliknięciu pokazują nam się dodatkowe informacje takie jak numer telefon i datę urodzin oraz przyciski Edycja i Usuń. 
 
 ###Edytuj###
+
 Po kliknięciu przycisku "Edytuj" pokazuje menu takie samo jak w przypadku dodawania jednak są tam już informacje danego kontaktu. Po wpisaniu wartości i kliknięciu przycisku edytuj kontakt zostanie edytowany.
 
 ###Usuń###
+
 Po kliknięciu przycisku "Usuń" pokazuje nam się komunikat potwierdzenia czy użytkownik chce wykonać tą akcje, po potwierdzeniu kontakt zostaje usunięty.
 
