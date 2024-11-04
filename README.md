@@ -27,7 +27,7 @@ Aby wyszukać w bazie kontaktów należy napisać daną frazę w polu tekstowym 
 
 ###Dodawanie###
 
-Aby dodać kontakt do bazy należy kliknąć w "+" w prawym górnym rogu. Pojawia się wtedy okno pozwalające napisać Imię, Nazwisko, Numer Telefonu i Datę Urodzenia w polach tekstowych. Po kliknięciu kontakt zostanie dodany do listy. Po wpisaniu istniejącego już numeru telefonu pokaże się komunikat mówiący o tym, że taki kontakt już istnieje.
+Aby dodać kontakt do bazy należy kliknąć w "+" w prawym górnym rogu. Pojawia się wtedy okno pozwalające napisać Imię, Nazwisko, Numer Telefonu i Datę Urodzenia w polach tekstowych. Wymaganymi polami aby dodać kontakt są imie lub nazwisko oraz numer telefonu składający się tylko z cyfr. Po kliknięciu kontakt zostanie dodany do listy. Po wpisaniu istniejącego już numeru telefonu pokaże się komunikat mówiący o tym, że taki kontakt już istnieje.
 
 ###Lista Kontaktów###
 
