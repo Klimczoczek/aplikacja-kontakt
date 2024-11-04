@@ -3,6 +3,7 @@
 
 W tytule aplikacji w nawiasie jest podana liczba kontaktów
 
+
 ###Menu###
 
 Menu składa się z 3 zakładek:
@@ -42,5 +43,7 @@ Po kliknięciu przycisku "Edytuj" pokazuje menu takie samo jak w przypadku dodaw
 Po kliknięciu przycisku "Usuń" pokazuje nam się komunikat potwierdzenia czy użytkownik chce wykonać tą akcje, po potwierdzeniu kontakt zostaje usunięty.
 
 ###Ważne###
+
 Użytkownik musi zawsze podawać poprawne dane.
+Baza Kontaktów jest wczytywana automatycznie.
 
